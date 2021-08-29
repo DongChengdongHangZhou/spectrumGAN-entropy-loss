@@ -1,0 +1,1 @@
+This folder is for training datasets and testing datasets, which are all in tiff format.
